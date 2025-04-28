@@ -40,8 +40,8 @@ This project is an AI-powered Applicant Tracking System (ATS) resume analyzer bu
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/repository-name
-   cd ai-ats-resume-analyzer
+   git clone "repository url"
+   cd ATS
    ```
 
 2. Create and activate a virtual environment:
