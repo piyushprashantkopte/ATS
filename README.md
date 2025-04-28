@@ -34,8 +34,7 @@ This project is an AI-powered Applicant Tracking System (ATS) resume analyzer bu
    - Skills gaps
    - Improvement suggestions
 
-![Screenshot 2025-04-24 171613](https://github.com/user-attachments/assets/75e3ffec-294a-43e4-926a-4f97453d73f6)
-
+![Screenshot 2025-04-24 171949](https://github.com/user-attachments/assets/435580d8-936e-454a-96fd-d6d7332d50e4)
 
 ## Installation
 
